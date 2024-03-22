@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroMaximo = 1000;
+let numeroMaximo = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 let mensagemNumeroMaximo = `Escolha um número entre 1 e ${numeroMaximo}`;
