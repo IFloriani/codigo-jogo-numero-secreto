@@ -69,3 +69,4 @@ function resetarJogo() {
    document.getElementById('comecar').removeAttribute('disabled');
    
 }
+
